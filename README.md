@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gokul1099/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gokul1099/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10040685/gokulakrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10040685/gokulakrishnan" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/genialgokul1099" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/genialgokul1099" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/genialgokul1099" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/genialgokul1099" height="30" width="40" /></a>
 <a href="https://medium.com/@gokul1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gokul1999" height="30" width="40" /></a>
 </p>
 
