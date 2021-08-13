@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**gokul1099/gokul1099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **gokul1099/gokul1099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm Gokulakrishnan</h1>
 <h3 align="center">Passionate about Deep Learning and Computer Vision</h3>
