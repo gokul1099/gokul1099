@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 
 - 🏢 I'm currently workig as **MERN Stack Developer**
-- 
+ 
 - 👨‍💻 All of my projects are available at [https://gokul1099.github.io./](https://gokul1099.github.io./)
 
 - 📝 I occasionally write articles on [https://medium.com/@gokul1999](https://medium.com/@gokul1999)
