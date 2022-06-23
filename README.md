@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul1099" alt="gokul1099" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **React Native**
 
-- 🏢 I'm currently workig as **MERN Stack Developer**
+- 🏢 I'm currently workig as **React Native Developer**
  
 - 👨‍💻 All of my projects are available at [https://gokul1099.github.io./](https://gokul1099.github.io./)
 
