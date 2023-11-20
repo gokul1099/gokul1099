@@ -4,7 +4,7 @@
 <!-- **gokul1099/gokul1099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm Gokulakrishnan</h1>
-<h3 align="center">Passionate about Deep Learning and Computer Vision</h3>
+<h3 align="center">React Native Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul1099" alt="gokul1099" /> </p>
 
