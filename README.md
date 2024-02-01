@@ -20,7 +20,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/analytics-vidhya/statistics-population-and-sample-993a488572ac
+[Population and Sample][https://medium.com/analytics-vidhya/statistics-population-and-sample-993a488572ac]
+[Face Recognition Using Face Verification][https://medium.com/analytics-vidhya/face-recognition-using-siamese-network-8ef07aab2f1f]
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
