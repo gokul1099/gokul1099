@@ -12,8 +12,6 @@
 
 - 🏢 I'm currently workig as **React Native Developer**
  
-- 👨‍💻 All of my projects are available at [https://gokul1099.github.io./](https://gokul1099.github.io./)
-
 - 📝 I occasionally write articles on [https://medium.com/@gokul1999](https://medium.com/@gokul1999)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, MERN Stack, JS, Python**
@@ -22,6 +20,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://medium.com/analytics-vidhya/statistics-population-and-sample-993a488572ac
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
